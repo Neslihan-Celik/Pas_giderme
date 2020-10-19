@@ -1,0 +1,10 @@
+C:\Users\Sbpc\source\repos\hafta_2_odev\hafta_2_odev\bin\Debug\hafta_2_odev.exe.config
+C:\Users\Sbpc\source\repos\hafta_2_odev\hafta_2_odev\bin\Debug\hafta_2_odev.exe
+C:\Users\Sbpc\source\repos\hafta_2_odev\hafta_2_odev\bin\Debug\hafta_2_odev.pdb
+C:\Users\Sbpc\source\repos\hafta_2_odev\hafta_2_odev\obj\Debug\hafta_2_odev.csprojAssemblyReference.cache
+C:\Users\Sbpc\source\repos\hafta_2_odev\hafta_2_odev\obj\Debug\hafta_2_odev.h2_Odev.resources
+C:\Users\Sbpc\source\repos\hafta_2_odev\hafta_2_odev\obj\Debug\hafta_2_odev.Properties.Resources.resources
+C:\Users\Sbpc\source\repos\hafta_2_odev\hafta_2_odev\obj\Debug\hafta_2_odev.csproj.GenerateResource.cache
+C:\Users\Sbpc\source\repos\hafta_2_odev\hafta_2_odev\obj\Debug\hafta_2_odev.csproj.CoreCompileInputs.cache
+C:\Users\Sbpc\source\repos\hafta_2_odev\hafta_2_odev\obj\Debug\hafta_2_odev.exe
+C:\Users\Sbpc\source\repos\hafta_2_odev\hafta_2_odev\obj\Debug\hafta_2_odev.pdb
