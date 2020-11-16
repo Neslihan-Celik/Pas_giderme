@@ -1,0 +1,10 @@
+C:\Users\Sbpc\source\repos\Gorsel_Odev_1\Gorsel_Odev_1\bin\Debug\Gorsel_Odev_1.exe.config
+C:\Users\Sbpc\source\repos\Gorsel_Odev_1\Gorsel_Odev_1\bin\Debug\Gorsel_Odev_1.exe
+C:\Users\Sbpc\source\repos\Gorsel_Odev_1\Gorsel_Odev_1\bin\Debug\Gorsel_Odev_1.pdb
+C:\Users\Sbpc\source\repos\Gorsel_Odev_1\Gorsel_Odev_1\obj\Debug\Gorsel_Odev_1.csprojAssemblyReference.cache
+C:\Users\Sbpc\source\repos\Gorsel_Odev_1\Gorsel_Odev_1\obj\Debug\Gorsel_Odev_1.Form1.resources
+C:\Users\Sbpc\source\repos\Gorsel_Odev_1\Gorsel_Odev_1\obj\Debug\Gorsel_Odev_1.Properties.Resources.resources
+C:\Users\Sbpc\source\repos\Gorsel_Odev_1\Gorsel_Odev_1\obj\Debug\Gorsel_Odev_1.csproj.GenerateResource.cache
+C:\Users\Sbpc\source\repos\Gorsel_Odev_1\Gorsel_Odev_1\obj\Debug\Gorsel_Odev_1.csproj.CoreCompileInputs.cache
+C:\Users\Sbpc\source\repos\Gorsel_Odev_1\Gorsel_Odev_1\obj\Debug\Gorsel_Odev_1.exe
+C:\Users\Sbpc\source\repos\Gorsel_Odev_1\Gorsel_Odev_1\obj\Debug\Gorsel_Odev_1.pdb

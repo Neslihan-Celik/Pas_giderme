@@ -1,0 +1,10 @@
+C:\Users\Sbpc\source\repos\cumleDegistirme\cumleDegistirme\bin\Debug\cumleDegistirme.exe.config
+C:\Users\Sbpc\source\repos\cumleDegistirme\cumleDegistirme\bin\Debug\cumleDegistirme.exe
+C:\Users\Sbpc\source\repos\cumleDegistirme\cumleDegistirme\bin\Debug\cumleDegistirme.pdb
+C:\Users\Sbpc\source\repos\cumleDegistirme\cumleDegistirme\obj\Debug\cumleDegistirme.csprojAssemblyReference.cache
+C:\Users\Sbpc\source\repos\cumleDegistirme\cumleDegistirme\obj\Debug\cumleDegistirme.Form1.resources
+C:\Users\Sbpc\source\repos\cumleDegistirme\cumleDegistirme\obj\Debug\cumleDegistirme.Properties.Resources.resources
+C:\Users\Sbpc\source\repos\cumleDegistirme\cumleDegistirme\obj\Debug\cumleDegistirme.csproj.GenerateResource.cache
+C:\Users\Sbpc\source\repos\cumleDegistirme\cumleDegistirme\obj\Debug\cumleDegistirme.csproj.CoreCompileInputs.cache
+C:\Users\Sbpc\source\repos\cumleDegistirme\cumleDegistirme\obj\Debug\cumleDegistirme.exe
+C:\Users\Sbpc\source\repos\cumleDegistirme\cumleDegistirme\obj\Debug\cumleDegistirme.pdb

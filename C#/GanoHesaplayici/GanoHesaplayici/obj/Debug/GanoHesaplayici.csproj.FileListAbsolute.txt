@@ -1,0 +1,10 @@
+C:\Users\Sbpc\source\repos\GanoHesaplayici\GanoHesaplayici\bin\Debug\GanoHesaplayici.exe.config
+C:\Users\Sbpc\source\repos\GanoHesaplayici\GanoHesaplayici\bin\Debug\GanoHesaplayici.exe
+C:\Users\Sbpc\source\repos\GanoHesaplayici\GanoHesaplayici\bin\Debug\GanoHesaplayici.pdb
+C:\Users\Sbpc\source\repos\GanoHesaplayici\GanoHesaplayici\obj\Debug\GanoHesaplayici.csprojAssemblyReference.cache
+C:\Users\Sbpc\source\repos\GanoHesaplayici\GanoHesaplayici\obj\Debug\GanoHesaplayici.Form1.resources
+C:\Users\Sbpc\source\repos\GanoHesaplayici\GanoHesaplayici\obj\Debug\GanoHesaplayici.Properties.Resources.resources
+C:\Users\Sbpc\source\repos\GanoHesaplayici\GanoHesaplayici\obj\Debug\GanoHesaplayici.csproj.GenerateResource.cache
+C:\Users\Sbpc\source\repos\GanoHesaplayici\GanoHesaplayici\obj\Debug\GanoHesaplayici.csproj.CoreCompileInputs.cache
+C:\Users\Sbpc\source\repos\GanoHesaplayici\GanoHesaplayici\obj\Debug\GanoHesaplayici.exe
+C:\Users\Sbpc\source\repos\GanoHesaplayici\GanoHesaplayici\obj\Debug\GanoHesaplayici.pdb
